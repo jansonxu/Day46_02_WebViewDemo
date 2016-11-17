@@ -23,6 +23,8 @@ public class MainActivity extends Activity {
         webView_main.setWebViewClient(new WebViewClient());
         webView_main.setWebChromeClient(new WebChromeClient());
 
+        //添加注释xxx
+
         //加载网页
         // webView_main.loadUrl(urlString);
 
