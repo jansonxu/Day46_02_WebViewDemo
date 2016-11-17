@@ -26,6 +26,8 @@ public class MainActivity extends Activity {
         //添加注释xxx
         //另外书写注释xxx
 
+        // are you ready?
+
         //加载网页
         // webView_main.loadUrl(urlString);
 
